@@ -1,0 +1,11 @@
+app:
+  security:
+    user: admin
+    password: admin
+
+server:
+  port: 8080
+  compression:
+    enabled: true
+    mime-types: application/json,application/xml,text/html,text/plain
+    min-response-size: 1024  # Comprime respuestas mayores a 1KB
