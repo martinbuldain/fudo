@@ -1,0 +1,1 @@
+HTTP es un protocolo de comunicación usado para transferir información en la web. Permite que navegadores y servidores intercambien datos, como páginas web y archivos. Funciona con solicitudes y respuestas, y puede usar HTTPS para mayor seguridad..

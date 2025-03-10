@@ -1,0 +1,1 @@
+TCP es uno de los principales protocolos de Internet. Se encuentra en la capa de transporte del modelo OSI y su función principal es garantizar una comunicación fiable y ordenada entre dispositivos en una red.
